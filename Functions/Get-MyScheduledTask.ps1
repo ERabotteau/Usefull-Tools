@@ -1,5 +1,5 @@
 ﻿#Requires -Version 3.0
-function Get-MrScheduledTask {
+function Get-MyScheduledTask {
     [CmdletBinding()]
     param (
         [ValidateNotNullOrEmpty()]
